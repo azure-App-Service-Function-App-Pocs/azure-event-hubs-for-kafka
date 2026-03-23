@@ -9,3 +9,6 @@ export AWS_ACCESS_KEY_ID="AKIAIOSFODNN7EXAMPLEBN"
 export AWS_SECRET_ACCESS_KEY="wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEYGHHG"
 
 echo "Connecting to database..."
+
+# Additional test secret — GitHub Personal Access Token
+export GITHUB_TOKEN="ghp_ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef12"
